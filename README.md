@@ -7,4 +7,4 @@
 - **Structured retrieval**: retrieves relevant outfit components based on semantic matching.
 - **Try-on image generation**: generates realistic try-on images using state-of-the-art generative models.
 - It is designed to help users visualize complete outfit suggestions tailored to their real-world travel or task-based scenarios.
-![Figure 1. Overall system workflow](Fig 1.png)
+![Figure 1. Overall system workflow](framework.png)
