@@ -1,4 +1,4 @@
-# TOWARD: Task-Oriented Wardrobe Assistant for Realistic Dressing
+# GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction
 
 ## Overview
 **TOWARD** is an end-to-end fashion recommendation system that supports:
