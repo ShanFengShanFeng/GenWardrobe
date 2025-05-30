@@ -1,7 +1,7 @@
 # GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction
 
 ## Overview
-**TOWARD** is an end-to-end fashion recommendation system that supports:
+**GenWardrobe** is an end-to-end fashion recommendation system that supports:
 - **Multimodal input**: combines both user-uploaded images and textual descriptions.
 - **Contextual understanding**: models user appearance and real-world scenarios (e.g., travel, work, leisure).
 - **Structured retrieval**: retrieves relevant outfit components based on semantic matching.
