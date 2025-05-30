@@ -48,6 +48,7 @@ Preparing, coming soon...
 ### Evaluation Metrics
 - To ensure the accuracy of the evaluation, we invited experts in the fashion field to develop corresponding evaluation scales and methods, as shown in the figure below.
 ![Figure 4. Evaluation_metrics.](evaluation_metrics.png)
+
 **Figure 4.** Evaluation_metrics.
 
 ### Results
