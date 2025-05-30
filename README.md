@@ -3,12 +3,15 @@
 ## Overview
 **GenWardrobe** is an an end-to-end system that understands ‘human–complex context constraint–fashion knowledge’ to generate travel fashion wardrobes.
 ![Figure 1. Illustration of the overall system design.](framework.png)
+**Figure 1.** Illustration of the overall system design.
 
 ## System Design
 - **👤 User Query Analysis**
 - **🔍 Fashion Knowledge Retrieval via RAG**
 - **🖼️ Wardrobe Image Generation**
 ![Figure 2. Feature extraction on fashion image.](extraction.png)
+
+**Figure 2.** Feature extraction on fashion image.
 
 ## Getting Started
 ### Key Steps for Realistic Dressing
