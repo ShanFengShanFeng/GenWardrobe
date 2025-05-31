@@ -1,7 +1,7 @@
 # GenWardrobe: A Fully Generative System for Travel Fashion Wardrobe Construction
 
 ## Overview
-**GenWardrobe** is an an end-to-end system that understands ‘human–complex context constraint–fashion knowledge’ to generate travel fashion wardrobes.
+**GenWardrobe** is end-to-end system that understands ‘human–complex context constraint–fashion knowledge’ to generate travel fashion wardrobes.
 ![Figure 1. Illustration of the overall system design.](framework.png)
 
 **Figure 1.** Illustration of the overall system design.
