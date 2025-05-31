@@ -2,7 +2,7 @@
 
 ## Overview
 **GenWardrobe** is end-to-end system that understands ‘human–complex context constraint–fashion knowledge’ to generate travel fashion wardrobes.
-![Figure 1. Illustration of the overall system design.](framework.png)
+![Figure 1. Illustration of the overall system design.](image/framework.png)
 
 **Figure 1.** Illustration of the overall system design.
 
@@ -13,7 +13,7 @@
 
 ## Structured fashion knowledge
 - We leverage an RAG framework to obtain a set of fashion knowledge from a well-curated large-scale fashion knowledge base. The extraction principles of fashion knowledge are illustrated in Figure 2
-![Figure 2. Fashion knowledge extraction from the image.](extraction.png)
+![Figure 2. Fashion knowledge extraction from the image.](image/extraction.png)
 
 **Figure 2.** Fashion knowledge extraction from the image.
 
@@ -32,7 +32,7 @@ Preparing, coming soon...
 ## Demo
 ### Illustration
 - To showcase the end-to-end workflow of the system, we built an interactive demonstration, where the raw user input consists of a full-body photo and a travel plan text. The demonstration outputs both a pure fashion wardrobe and visualized fashion wardrobe.
-![Figure 3. Illustration of the interface of the demo system.](front_end_interface.png)
+![Figure 3. Illustration of the interface of the demo system.](image/front_end_interface.png)
 
 **Figure 3.** Illustration of the interface of the demo system.
 
@@ -57,13 +57,13 @@ Preparing, coming soon...
 - Example: I will travel to Bali in July for about three days, and then attend a wedding in London. Please recommend outfits for both occasions.
 ### Evaluation Metrics
 - To ensure the accuracy of the evaluation, we invited experts in the fashion field to develop corresponding evaluation scales and methods, as shown in the figure below.
-![Figure 4. Evaluation_metrics.](evaluation_metrics.png)
+![Figure 4. Evaluation_metrics.](image/evaluation_metrics.png)
 
 **Figure 4.** Evaluation_metrics.
 
 ### Results
 - The average score across all comparisons was +1.146 (indicating a preference between “better” and “much better”), and statistical analysis confirmed a significant advantage in both aesthetic quality and contextual relevance.
-![Figure 5. Evaluation_result.](evaluation_result.png)
+![Figure 5. Evaluation_result.](image/evaluation_result.png)
 **Figure 5.** Evaluation_result.
 
 ## Contact
