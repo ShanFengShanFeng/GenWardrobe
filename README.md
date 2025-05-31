@@ -11,7 +11,7 @@
 - **🔍 Fashion Knowledge Retrieval via RAG**
 - **🖼️ Wardrobe Image Generation**
 
-## Structured fashion knowledge
+## Fashion knowledge
 - We leverage an RAG framework to obtain a set of fashion knowledge from a well-curated large-scale fashion knowledge base. The extraction principles of fashion knowledge are illustrated in Figure 2
 ![Figure 2. Fashion knowledge extraction from the image.](image/extraction.png)
 
