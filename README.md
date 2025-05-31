@@ -33,6 +33,7 @@ Preparing, coming soon...
 ### Illustration
 - To showcase the end-to-end workflow of the system, we built an interactive demonstration, where the raw user input consists of a full-body photo and a travel plan text. The demonstration outputs both a pure fashion wardrobe and visualized fashion wardrobe.
 ![Figure 3. Illustration of the interface of the demo system.](front_end_interface.png)
+
 **Figure 3.** Illustration of the interface of the demo system.
 
 ### Processing Time
