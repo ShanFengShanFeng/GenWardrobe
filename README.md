@@ -10,12 +10,15 @@
 - **👤 User Query Analysis**
 - **🔍 Fashion Knowledge Retrieval via RAG**
 - **🖼️ Wardrobe Image Generation**
-![Figure 2. Feature extraction on fashion image.](extraction.png)
 
-**Figure 2.** Feature extraction on fashion image.
+## Structured fashion knowledge
+- We leverage an RAG framework to obtain a set of fashion knowledge from a well-curated large-scale fashion knowledge base. The extraction principles of fashion knowledge are illustrated in Figure 2
+![Figure 2. Fashion knowledge extraction from the image.](extraction.png)
+
+**Figure 2.** Fashion knowledge extraction from the image.
 
 ## Getting Started
-### Key Steps for Realistic Dressing
+### Key Steps
 1. Add your API_KEY in [config.py](config.py).
 2. Start the backend with Flask to receive POST requests for generation.
 3. Front-end and back-end interaction with user photo and scene description upload on the Front-end.
