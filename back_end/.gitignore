@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+retrieval_txt/
+retrieval_json/
+data_embedding/
+result_cache.json
+test_*.py
